@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there , I am MERN Developer and also known as Joe React from the #PAPA FAM :rocket: 👋
 
 <!--
 **Krahost/Krahost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
