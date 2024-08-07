@@ -1,4 +1,4 @@
-### Hi there , I am MERN Developer and also known as Joe React from the #PAPA FAM :rocket: 👋
+### Hi there , I am a  Developer and  from the #PAPA FAM :rocket: 👋
 
 
 
