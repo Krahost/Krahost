@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working on Mern Stack projects to become a fullstack 
-- 🌱 I’m currently learning flutter
+- 🔭 I’m currently working on  projects HTML and Laravel 
+- 🌱 I’m currently NEXTjs
 - 💬 Ask me about ...
 - 📫 How to reach me: twitter: @jonathankrah
 - 😄 My projects: https://jonathan-k.netlify.app
